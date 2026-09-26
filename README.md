@@ -318,7 +318,7 @@ This project is provided as-is. Modify and use as needed for your requirements.
 
 ## 👤 Author
 
-Created as a Progressive Web Application template for customer management systems.
+Dr. Alfonso José Barroso Barajas
 
 ## 🤝 Contributing
 
