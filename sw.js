@@ -2,6 +2,7 @@ const CACHE_NAME = 'pwa-clientes-v1';
 const STATIC_ASSETS = [
     './',
     './index.html',
+    '/styles.css',
     './manifest.json',
     './js/app.js',
     './js/api.js',
